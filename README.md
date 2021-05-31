@@ -7,10 +7,9 @@ At the end a report has been produced that summarizes how the data differs by ci
 The coding can be accessed [here](https://github.com/shayanafzal/PyBer_Challenge/blob/553e72b825f27b4caad2fb000546c16742937af1/PyBer_Challenge.ipynb)
 
 # Results 
-Please refer to the chart below.
-
+Please refer to the chart below for a quick summary. Refer below the chart for details.
 ![GitHub Logo](https://github.com/shayanafzal/PyBer_Challenge/blob/553e72b825f27b4caad2fb000546c16742937af1/Analysis/Chart.png)
-![GitHub Logo](https://github.com/shayanafzal/PyBer_Challenge/blob/553e72b825f27b4caad2fb000546c16742937af1/Analysis/Fig1.png)
+
 
 ## Total Rides
 The total rides count increases as one moves from rural to urban, with suburban being in the middle. This makes sense as it appears to be a reflection of the population.
@@ -28,13 +27,16 @@ The average fare per ride is highest for rural and lowest for urban, with suburb
 The average fare per ride is highest for rural and lowest for urban, with suburban being in the middle. 
 
 ## Weekly Total Fare by City Type
+
+Please see below graph that summarises weekly total fare by city type. 
+![GitHub Logo](https://github.com/shayanafzal/PyBer_Challenge/blob/553e72b825f27b4caad2fb000546c16742937af1/Analysis/Fig1.png)
+
 ### Rural 
 Over the four month internal the fares in rural areas are fairly consistent.
 ### Suburban
 Starting in January the suburban fares are low and towards the end of April they are high.
 ### Urban
 Starting in January the urban fares are low and towards the end of April they are high.
-
 
 # Summary
 
