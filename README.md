@@ -40,7 +40,7 @@ Starting in January the urban fares are low and towards the end of April they ar
 
 # Summary
 
-The above analysis leads to the following three recommendations that can best help to improve revenues:
+The above analysis leads to the following three recommendations that can best help to improve revenue:
 
 1. The total fare at the start of January is low for Suburban and Urban areas. This needs to be investigated and perhaps new promotions can be introduced to increase the Jan revenue. 
 2. Urban areas have almost five times as many drivers when compared to suburban areas. However, this same ratio is not reflected in the total fares. The total fares for urban areas are only twice that of suburban areas. The type of trips people take needs to be analyzed. Perhaps the urban and suburban demographic is very different and they both use the ride services for different reasons. This can be investigated further and could perhaps open up an opportunity to target the other demographic in both urban and suburban areas.
