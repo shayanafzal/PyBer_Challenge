@@ -4,8 +4,13 @@ The purpose of this analysis is to create a summary DataFrame of ride-sharing da
 
 At the end a report has been produced that summarizes how the data differs by city type and how those differences can be used by PyBer to make business decisions. Three main recommendations have been summarized at the end.
 
+The coding can be accessed [here]()
+
 # Results 
 Please refer to the chart below.
+
+![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/logo.png)
 
 ## Total Rides
 The total rides count increases as one moves from rural to urban, with suburban being in the middle. This makes sense as it appears to be a reflection of the population.
