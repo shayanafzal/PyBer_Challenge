@@ -10,7 +10,7 @@ The coding can be accessed [here](https://github.com/shayanafzal/PyBer_Challenge
 
 ## Results 
 Please refer to the chart below for a quick summary. Refer below the chart for details.
-![GitHub Logo](https://github.com/shayanafzal/PyBer_Challenge/blob/553e72b825f27b4caad2fb000546c16742937af1/Analysis/Chart.png)
+![GitHub Logo](https://github.com/shayanafzal/PyBer_Challenge/blob/23817451698c8a7abcad33c16d421f1880bf17cb/Analysis/PyBer_fare_summary.png)
 
 
 ### Total Rides
