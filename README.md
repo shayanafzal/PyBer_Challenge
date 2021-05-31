@@ -1,6 +1,6 @@
 # PyBer Challenge
 
-# Overview of the Analysis
+## Overview of the Analysis
 
 The purpose of this analysis is to create a summary DataFrame of ride-sharing data by city type. After that Pandas and Matplotlib will be used to create a multiple-line graph that shows the total weekly fares for each city type. 
 
@@ -8,39 +8,39 @@ At the end a report has been produced that summarizes how the data differs by ci
 
 The coding can be accessed [here](https://github.com/shayanafzal/PyBer_Challenge/blob/553e72b825f27b4caad2fb000546c16742937af1/PyBer_Challenge.ipynb)
 
-# Results 
+## Results 
 Please refer to the chart below for a quick summary. Refer below the chart for details.
 ![GitHub Logo](https://github.com/shayanafzal/PyBer_Challenge/blob/553e72b825f27b4caad2fb000546c16742937af1/Analysis/Chart.png)
 
 
-## Total Rides
+### Total Rides
 The total rides count increases as one moves from rural to urban, with suburban being in the middle. This makes sense as it appears to be a reflection of the population.
 
-## Total Drivers
+### Total Drivers
 The total rides count increases as one moves from rural to urban, with suburban being in the middle. As expected there is a direct relationship between the total number of rides and the total number of drivers. 
 
-## Total Fares
+### Total Fares
 The total fares increase as one moves from rural to urban, with suburban being in the middle.  
 
-## Average Fare per Ride
+### Average Fare per Ride
 The average fare per ride is highest for rural and lowest for urban, with suburban being in the middle. This may be because in rural locations places are located further away and require long travel distances. 
 
-## Average Fare per Driver
+### Average Fare per Driver
 The average fare per ride is highest for rural and lowest for urban, with suburban being in the middle. 
 
-## Weekly Total Fare by City Type
+### Weekly Total Fare by City Type
 
 Please see below graph that summarises weekly total fare by city type. 
 ![GitHub Logo](https://github.com/shayanafzal/PyBer_Challenge/blob/553e72b825f27b4caad2fb000546c16742937af1/Analysis/Fig1.png)
 
-### Rural 
+#### Rural 
 Over the four month internal the fares in rural areas are fairly consistent.
-### Suburban
+#### Suburban
 Starting in January the suburban fares are low and towards the end of April they are high.
-### Urban
+#### Urban
 Starting in January the urban fares are low and towards the end of April they are high.
 
-# Summary
+## Summary
 
 The above analysis leads to the following three recommendations that can best help to improve revenue:
 
